@@ -1,0 +1,72 @@
+Cliente,Total_Compras,Valor_Total_USD,Ticket_Medio_USD,Primeira_Compra,Ultima_Compra,Dias_Entre_Primeira_Ultima,Frequencia_Compra_Dias,Meses_Distintos,Trimestres_Distintos,Max_Compras_Em_Um_Mes,Tipo_Recorrencia,Tendencia_Crescimento
+Sam Research,8,338973.79,42371.72,2024-02-13,2024-11-05,266.00,33.25,7,4,2.00,Regular,Growing
+Vivo,7,224344.19,32049.17,2024-01-04,2024-12-02,333.00,47.57,7,4,1.00,Regular,Growing
+NielsenIQ Korea,4,175223.77,43805.94,2024-05-10,2024-10-31,174.00,43.50,3,3,2.00,Occasional,Stable
+Sermo,25,163926.86,6557.07,2024-02-19,2024-12-17,302.00,12.08,10,4,4.00,Regular,Stable
+Uber,7,145160.00,20737.14,2024-06-25,2024-11-14,142.00,20.29,4,3,4.00,Occasional,Declining
+Dscout,24,92690.00,3862.08,2024-02-05,2024-12-06,305.00,12.71,10,4,4.00,Regular,Stable
+SAGO,17,73339.50,4314.09,2024-01-12,2024-12-02,325.00,19.12,11,4,3.00,Regular,Declining
+realme,1,54233.57,54233.57,2024-09-18,2024-09-18,0.00,,1,1,1.00,One-time,Insufficient data
+Takasago,1,54000.00,54000.00,2024-10-11,2024-10-11,0.00,,1,1,1.00,One-time,Insufficient data
+Norstat Austria,1,49906.64,49906.64,2024-07-24,2024-07-24,0.00,,1,1,1.00,One-time,Insufficient data
+Discuss,31,44987.00,1451.19,2024-01-12,2024-12-27,350.00,11.29,11,4,6.00,Regular,Growing
+Ronin International,2,30712.00,15356.00,2024-03-11,2024-10-11,214.00,107.00,2,2,1.00,Occasional,Declining
+Kantar,1,29375.00,29375.00,2024-01-30,2024-01-30,0.00,,1,1,1.00,One-time,Insufficient data
+Motif,3,28100.10,9366.70,2024-01-12,2024-09-09,241.00,80.33,3,2,1.00,Regular,Declining
+Adept Field,3,27980.00,9326.67,2024-02-21,2024-04-30,69.00,23.00,2,2,2.00,Occasional,Declining
+Serasa,2,27862.54,13931.27,2024-07-02,2024-07-17,15.00,7.50,1,1,2.00,Concentrated (same month),Insufficient data
+The MindMarket,7,26087.72,3726.82,2024-02-26,2024-09-06,193.00,27.57,5,3,2.00,Regular,Declining
+Payments CMI,2,24370.00,12185.00,2024-10-11,2024-11-11,31.00,15.50,2,1,1.00,Quarterly,Growing
+Kantar Korea,3,23895.00,7965.00,2024-04-04,2024-10-11,190.00,63.33,3,3,1.00,Regular,Stable
+AMI,2,21420.00,10710.00,2024-08-26,2024-11-19,85.00,42.50,2,2,1.00,Occasional,Growing
+Markelytics,4,18570.00,4642.50,2024-04-18,2024-10-23,188.00,47.00,4,3,1.00,Regular,Declining
+Eversana,4,17130.00,4282.50,2024-06-12,2024-08-29,78.00,19.50,3,2,2.00,Occasional,Declining
+Untold Research,1,13600.00,13600.00,2024-01-18,2024-01-18,0.00,,1,1,1.00,One-time,Insufficient data
+Lumanity,2,12387.00,6193.50,2024-05-31,2024-11-01,154.00,77.00,2,2,1.00,Occasional,Stable
+Azure,5,11878.00,2375.60,2024-06-28,2024-09-23,87.00,17.40,4,2,2.00,Occasional,Declining
+Borderless Access,1,11450.00,11450.00,2024-08-09,2024-08-09,0.00,,1,1,1.00,One-time,Insufficient data
+Brain Research,1,9484.60,9484.60,2024-06-18,2024-06-18,0.00,,1,1,1.00,One-time,Insufficient data
+Ipsos,2,8220.00,4110.00,2024-02-13,2024-04-30,77.00,38.50,2,2,1.00,Occasional,Declining
+Themindmarket,2,8200.00,4100.00,2024-01-31,2024-09-11,224.00,112.00,2,2,1.00,Occasional,Declining
+Stone,22,8030.07,365.00,2024-03-15,2024-12-13,273.00,12.41,8,4,5.00,Regular,Growing
+GIM,1,7695.07,7695.07,2024-02-07,2024-02-07,0.00,,1,1,1.00,One-time,Insufficient data
+General Mills,1,7113.00,7113.00,2024-10-31,2024-10-31,0.00,,1,1,1.00,One-time,Insufficient data
+Unguess,1,6588.80,6588.80,2024-09-05,2024-09-05,0.00,,1,1,1.00,One-time,Insufficient data
+Flume,1,5630.73,5630.73,2024-03-07,2024-03-07,0.00,,1,1,1.00,One-time,Insufficient data
+Mercado Livre Brasil,3,5431.82,1810.61,2024-08-06,2024-09-23,48.00,16.00,2,1,2.00,Quarterly,Declining
+Designclub,1,5272.15,5272.15,2024-09-27,2024-09-27,0.00,,1,1,1.00,One-time,Insufficient data
+AnswerLab,2,4815.00,2407.50,2024-02-05,2024-07-02,148.00,74.00,2,2,1.00,Occasional,Growing
+Mindline,2,4810.00,2405.00,2024-08-06,2024-10-11,66.00,33.00,2,2,1.00,Occasional,Growing
+NielsenIQ China,1,4710.00,4710.00,2024-10-18,2024-10-18,0.00,,1,1,1.00,One-time,Insufficient data
+Zoomlab,1,4156.22,4156.22,2024-04-09,2024-04-09,0.00,,1,1,1.00,One-time,Insufficient data
+Sinqia,1,4054.53,4054.53,2024-10-22,2024-10-22,0.00,,1,1,1.00,One-time,Insufficient data
+Ripio,1,3802.86,3802.86,2024-07-05,2024-07-05,0.00,,1,1,1.00,One-time,Insufficient data
+Ipsos Brasil,2,3781.13,1890.57,2024-02-23,2024-07-23,151.00,75.50,2,2,1.00,Occasional,Growing
+FieldworkHub,1,3575.00,3575.00,2024-07-09,2024-07-09,0.00,,1,1,1.00,One-time,Insufficient data
+Reclame Aqui,1,3472.88,3472.88,2024-12-27,2024-12-27,0.00,,1,1,1.00,One-time,Insufficient data
+Bosch,2,3470.50,1735.25,2024-05-27,2024-07-05,39.00,19.50,2,2,1.00,Occasional,Growing
+Handshake,2,3438.32,1719.16,2024-08-20,2024-11-21,93.00,46.50,2,2,1.00,Occasional,Declining
+FQM FARMA,3,3422.82,1140.94,2024-10-03,2024-12-02,60.00,20.00,3,1,1.00,Quarterly,Growing
+Firstsource,1,3097.50,3097.50,2024-08-27,2024-08-27,0.00,,1,1,1.00,One-time,Insufficient data
+Think Healthcare solutions,1,3000.00,3000.00,2024-05-03,2024-05-03,0.00,,1,1,1.00,One-time,Insufficient data
+Multiplica,4,2476.00,619.00,2024-01-18,2024-03-21,63.00,15.75,3,1,2.00,Quarterly,Declining
+AC PESQUISA,2,2457.43,1228.71,2024-07-18,2024-08-09,22.00,11.00,2,1,1.00,Quarterly,Stable
+MRFGR,2,1930.00,965.00,2024-06-10,2024-09-03,85.00,42.50,2,2,1.00,Occasional,Declining
+Raven.inc,1,1610.00,1610.00,2024-08-20,2024-08-20,0.00,,1,1,1.00,One-time,Insufficient data
+Chelles e Hayashi,2,1513.56,756.78,2024-03-21,2024-04-23,33.00,16.50,2,2,1.00,Occasional,Growing
+IQVIA,1,1310.00,1310.00,2024-01-12,2024-01-12,0.00,,1,1,1.00,One-time,Insufficient data
+Victoria Lorenzana,1,1005.28,1005.28,2024-05-27,2024-05-27,0.00,,1,1,1.00,One-time,Insufficient data
+Gauge,2,958.98,479.49,2024-08-09,2024-10-16,68.00,34.00,2,2,1.00,Occasional,Stable
+Neoway,1,951.79,951.79,2024-05-27,2024-05-27,0.00,,1,1,1.00,One-time,Insufficient data
+Rede Unifique,3,914.22,304.74,2024-01-03,2024-07-15,194.00,64.67,3,3,1.00,Regular,Growing
+Rappi,1,700.00,700.00,2024-09-03,2024-09-03,0.00,,1,1,1.00,One-time,Insufficient data
+Borderlessaccess,1,560.00,560.00,2024-09-24,2024-09-24,0.00,,1,1,1.00,One-time,Insufficient data
+Rosenthal,1,355.00,355.00,2024-03-20,2024-03-20,0.00,,1,1,1.00,One-time,Insufficient data
+BTG Pactual,2,219.74,109.87,2024-03-20,2024-04-08,19.00,9.50,2,2,1.00,Occasional,Growing
+433,1,208.55,208.55,2024-07-09,2024-07-09,0.00,,1,1,1.00,One-time,Insufficient data
+,0,0.00,0.00,,,,,0,0,,Occasional,Insufficient data
+JusBrasil,2,0.00,0.00,2024-01-17,2024-03-26,69.00,34.50,2,1,1.00,Quarterly,Stable
+will bank,2,0.00,0.00,2024-02-08,2024-02-22,14.00,7.00,1,1,2.00,Concentrated (same month),Insufficient data
+Banco Carrefour,1,0.00,0.00,2024-01-25,2024-01-25,0.00,,1,1,1.00,One-time,Insufficient data
+Cardioline,1,0.00,0.00,2024-01-25,2024-01-25,0.00,,1,1,1.00,One-time,Insufficient data
+Banco Inter,1,0.00,0.00,2024-01-24,2024-01-24,0.00,,1,1,1.00,One-time,Insufficient data
